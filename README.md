@@ -4,4 +4,4 @@ The home for code, solutions and slides from my tutorials, as well as any other 
 
 | Course   | Term | Tutorial Slot(s)              |
 | -------- | ---- | ----------------------------- |
-| COMP1531 | 23T3 | Thu 11:00 - 13:00 (w/ Si Jun) |
+| COMP1531 | 23T3 | Thu 11:00 - 14:00 (w/ Si Jun) |
