@@ -23,7 +23,7 @@ If you are on Windows you should install and use WSL which you can do by followi
 
 Then run the following commands in the terminal:
 
-```bash
+```shell
 sudo apt update && sudo apt upgrade
 sudo apt install git
 ```
@@ -32,7 +32,7 @@ sudo apt install git
 
 If you are on MacOS you will need to install [Homebrew](https://brew.sh/), a package manager.
 
-```bash
+```shell
 brew install git
 ```
 
