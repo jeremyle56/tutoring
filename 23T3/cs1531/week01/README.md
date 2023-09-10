@@ -1,16 +1,6 @@
 # Tutorial 1
 
-[TOC]
-
-## General notes:
-
-## A. Introduction and Problem Solving
-
-1. Your tutor will split you into your project groups with an icebreaker activity and a problem to solve in 15 minutes. When time is up, they'll ask for your brief introduction and answer.
-
-1. Come back together and reflect with your tutor on how you came up with those answers
-
-## B. From C to Javascript: A Quick Overview
+## A. From C to Javascript: A Quick Overview
 
 ### Part 1 - Basic Syntax, Input/Output, Conditionals & Control Flow
 
@@ -109,7 +99,7 @@ As you write the program, answer the following questions:
 
 - Which operator can we use instead of needing to write `x * x * x`?
 
-## C. Git Fundamentals
+## B. Git Fundamentals
 
 1. In the terminal, use the command
 
