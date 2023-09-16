@@ -4,9 +4,10 @@ Welcome to the resources for COMP1531 23T3.
 
 You can find the code it's week's folder, and the slides from the links below.
 
-| Week            | Topics          | Slides |
-| --------------- | --------------- | ------ |
-| [01](./week01/) | JavaScript, Git |
+| Week            | Topics                               | Slides                                      |
+| --------------- | ------------------------------------ | ------------------------------------------- |
+| [01](./week01/) | JavaScript, Git                      | [PDF](./week01/COMP1531%20-%20Week%201.pdf) |
+| 02              | Code Style, Further JavaScript + Git |
 
 ## Miscellaneous
 
