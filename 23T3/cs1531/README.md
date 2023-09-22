@@ -7,12 +7,14 @@ You can find the code it's week's folder, and the slides from the links below.
 | Week            | Topics                               | Slides                                      |
 | --------------- | ------------------------------------ | ------------------------------------------- |
 | [01](./week01/) | JavaScript, Git                      | [PDF](./week01/COMP1531%20-%20Week%201.pdf) |
-| 02              | Code Style, Further JavaScript + Git |
+| [02](./week02/) | Code Style, Further JavaScript + Git | [PDF](./week02/COMP1531%20-%20Week%202.pdf) |
+| 03              | NPM, Testing, Multi-files            |
 
 ## Miscellaneous
 
 - [Anonymous Feedback Form](https://forms.gle/BytrFSG3vMzU73HW9)
 - [Git Setup + Basics Guide](https://gist.github.com/jeremyle56/f3b664f0491d6ec0d9a03ab34780b876)
+- [Course Tutorial Solutions](https://nw-syd-gitlab.cseunsw.tech/COMP1531/23T3/tutorials/-/tree/master)
 
 ### Local Setup
 
