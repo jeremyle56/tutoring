@@ -9,7 +9,8 @@ You can find the code it's week's folder, and the slides from the links below.
 | [01](./week01/) | JavaScript, Git                      | [PDF](./week01/COMP1531%20-%20Week%201.pdf) |
 | [02](./week02/) | Code Style, Further JavaScript + Git | [PDF](./week02/COMP1531%20-%20Week%202.pdf) |
 | [03](./week03/) | NPM, Testing, Multi-files            | [PDF](./week03/COMP1531%20-%20Week%203.pdf) |
-| 04              | Agile, Typing, Linting + Code Review |
+| [04](./week04/) | Agile, Typing, Linting + Code Review | [PDF](./week04/COMP1531%20-%20Week%204.pdf) |
+| 05              | Express, HTTP, Functions             |
 
 ## Miscellaneous
 
