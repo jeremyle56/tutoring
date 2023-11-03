@@ -4,14 +4,15 @@ Welcome to the resources for COMP1531 23T3.
 
 You can find the code it's week's folder, and the slides from the links below.
 
-| Week            | Topics                               | Slides                                      |
-| --------------- | ------------------------------------ | ------------------------------------------- |
-| [01](./week01/) | JavaScript, Git                      | [PDF](./week01/COMP1531%20-%20Week%201.pdf) |
-| [02](./week02/) | Code Style, Further JavaScript + Git | [PDF](./week02/COMP1531%20-%20Week%202.pdf) |
-| [03](./week03/) | NPM, Testing, Multi-files            | [PDF](./week03/COMP1531%20-%20Week%203.pdf) |
-| [04](./week04/) | Agile, Typing, Linting + Code Review | [PDF](./week04/COMP1531%20-%20Week%204.pdf) |
-| [05](./week05/) | Express, HTTP, Functions             | [PDF](./week05/Week%205%20COMP1531.pdf)     |
-| 07              | DRY, KISS, Exceptions, Routes        |
+| Week            | Topics                                | Slides                                      |
+| --------------- | ------------------------------------- | ------------------------------------------- |
+| [01](./week01/) | JavaScript, Git                       | [PDF](./week01/COMP1531%20-%20Week%201.pdf) |
+| [02](./week02/) | Code Style, Further JavaScript + Git  | [PDF](./week02/COMP1531%20-%20Week%202.pdf) |
+| [03](./week03/) | NPM, Testing, Multi-files             | [PDF](./week03/COMP1531%20-%20Week%203.pdf) |
+| [04](./week04/) | Agile, Typing, Linting + Code Review  | [PDF](./week04/COMP1531%20-%20Week%204.pdf) |
+| [05](./week05/) | Express, HTTP, Functions              | [PDF](./week05/Week%205%20COMP1531.pdf)     |
+| [07](./week07/) | DRY, KISS, Exceptions, Routes         | [PDF](./week07/COMP1531%20Week%207.pdf)     |
+| [08](./week08/) | Coverage, Refactoring, State Diagrams | [PDF](./week08/COMP1531%20-%20Week%208.pdf) |
 
 ## Miscellaneous
 
