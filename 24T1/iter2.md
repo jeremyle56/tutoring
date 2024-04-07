@@ -32,7 +32,17 @@ A bit hard to give proper feedback on your test since they were so limited. Plea
 
 # Git Practices
 
+- Ensure that you have good merge request and commit names. (You should be on top of this by now)
+- Make sure that you are still committing your tests before you commit your implementation
+
 # Teamwork
+
+- For your issue boards:
+  - Set due dates to every issue
+  - Make sure all issues have a description
+  - Make sure all issues are assigned to someone in the group
+- Please record standups on teams (everyone should reply to one thread)
+- Write meeting mins every week and rotate who writes it
 
 # F13B_DREAM
 
@@ -46,7 +56,7 @@ Let me know via Teams if you have any questions :D
 
 ## Test Coverage
 
-- `adminQuizQuestionUpate` missing test for "Question Id does not refer to a valid question within this quiz"
+- `adminQuizQuestionUpdate` missing test for "Question Id does not refer to a valid question within this quiz"
 
 ## Test Clarity
 
@@ -61,12 +71,18 @@ Let me know via Teams if you have any questions :D
 # Code Quality
 
 - `setData()` is never called in `auth.ts`?
-- For arrow functions is stylically better to do
 - Consider using more helper functions like for fetching tokens since they are used for every function.
 
 # Git Practices
 
+- Very good, ideally you should making test and committing test before any implementation
+
 # Teamwork
+
+- Make sure every issue is
+  1. Assigned to someone of the group
+  2. Have descriptions
+  3. Have due dates
 
 # F13B_EGGS
 
@@ -95,6 +111,13 @@ Let me know via Teams if you have any questions :D
 
 # Code Quality
 
+- Some white space is needed in some areas
+
 # Git Practices
 
+- Some unclear commit names
+- You should try to split merge requests into one per function (this isn't necessary but is good practice, makes the merge requests minimal)
+
 # Teamwork
+
+- Make sure all tickets are assigned and have due dates
