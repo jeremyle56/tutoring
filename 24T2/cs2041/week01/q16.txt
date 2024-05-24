@@ -1,0 +1,16 @@
+ For each of the scenarios below
+    - give a regular expression to match this class of strings
+    - describe the strings being matched using an English sentence
+
+
+a) encrypted password fields (including the surrounding colons) in a Unix password file entry
+
+
+b) positive real numbers at the start of a line (using normal fixed-point notation for reals, not the kind of scientific notation you find in programming languages)
+
+
+c) Names as represented in this file containing details of tute/lab enrolments
+
+
+d) Names as above, but without the trailing spaces (difficult).
+Hint: what are given names composed of, and how many of these things can there be?
