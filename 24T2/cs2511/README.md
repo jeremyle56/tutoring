@@ -1,4 +1,4 @@
-# COMP2511 24T2 - H15A
+# COMP2511 - Object-Oriented Design & Programming
 
 Welcome to the resources for COMP2511 H15A.
 

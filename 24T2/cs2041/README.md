@@ -1,4 +1,4 @@
-# COMP(2041|9044) 24T2 - T13A
+# COMP(2041|9044) - Software Construction: Techniques and Tools
 
 Welcome to the resources for COMP(2041|9044) 24T2 T13A.
 
