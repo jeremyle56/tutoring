@@ -1,25 +1,33 @@
 Write a regex to match:
 
 1.  C preprocessor commands in a C program source file.
-
+^#
 
 2.  All the lines in a C program except preprocessor commands.
-
+^[^#] | ^$
 
 3.  All lines in a C program with trailing white space (one or more white space at the end of line).
-
+\s$
 
 4.  The names "Barry", "Harry", "Larry" and "Parry".
-
+Barry | Harry | Larry | Parry
+[BHLP]arry
 
 5.  A string containing the word "hello" followed, some time later, by the word "world".
-
+example: eeoiebr hello wjjvkebvjke world
+hello.*world
 
 6.  The word "calendar" and mis-spellings where 'a' is replaced with 'e' or vice-versa.
-
+c[ae]l[ae]nd[ae]r
 
 7.  A list of positive integers separated by commas, e.g. 2,4,8,16,32
-
+([1-9][0-9]* | 0)(,[1-9][0-9]*|0)*
 
 8.  A C string whose last character is newline.
 
+"[^"]*\\n"
+
+e.g.:
+"ufgeiuevev \n"  "vejobveob \n"
+"ufgeiuevev"
+"\n"
