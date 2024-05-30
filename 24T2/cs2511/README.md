@@ -4,9 +4,9 @@ Welcome to the resources for COMP2511 H15A.
 
 You can find the code, it's week's folder, and the slides from links below.
 
-| Week            | Topics                    | Slides |
-| --------------- | ------------------------- | ------ |
-| [01](./week01/) | General Design, Java, Git | PDF    |
+| Week            | Topics                    | Slides                                             |
+| --------------- | ------------------------- | -------------------------------------------------- |
+| [01](./week01/) | General Design, Java, Git | [PDF](./week01/COMP2511%2024T2%20-%20Week%201.pdf) |
 
 ## Useful resources
 
