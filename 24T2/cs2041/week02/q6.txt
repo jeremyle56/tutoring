@@ -1,0 +1,7 @@
+a. Write a sort command which sorts by the results in the second benchmark, then by the results in the first benchmark.
+
+b. Write a sort command which sorts by the results in the third benchmark, then by the program number.
+
+c. Write a sed command which removes the leading zeroes from the benchmark times.
+
+d. Write a sed command which removes the benchmark results from program2 through program13.

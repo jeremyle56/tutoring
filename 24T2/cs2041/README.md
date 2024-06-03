@@ -4,9 +4,10 @@ Welcome to the resources for COMP(2041|9044) 24T2 T13A.
 
 You can find the code, it's week's folder, and the slides from links below.
 
-| Week            | Topics       | Slides                                                     |
-| --------------- | ------------ | ---------------------------------------------------------- |
-| [01](./week01/) | Regex & Grep | [PDF](<./week01/COMP(20419044)%20Week%201%20-%2024T2.pdf>) |
+| Week            | Topics              | Slides                                                     |
+| --------------- | ------------------- | ---------------------------------------------------------- |
+| [01](./week01/) | Regex & Grep        | [PDF](<./week01/COMP(20419044)%20Week%201%20-%2024T2.pdf>) |
+| [02](./week02/) | FIlters & Pipelines | PDF                                                        |
 
 ## Useful resources
 
