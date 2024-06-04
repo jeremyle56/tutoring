@@ -7,7 +7,7 @@ You can find the code, it's week's folder, and the slides from links below.
 | Week            | Topics              | Slides                                                     |
 | --------------- | ------------------- | ---------------------------------------------------------- |
 | [01](./week01/) | Regex & Grep        | [PDF](<./week01/COMP(20419044)%20Week%201%20-%2024T2.pdf>) |
-| [02](./week02/) | FIlters & Pipelines | PDF                                                        |
+| [02](./week02/) | FIlters & Pipelines | [PDF](<./week02/COMP(20419044)%20Week%202%20-%2024T2.pdf>) |
 
 ## Useful resources
 
