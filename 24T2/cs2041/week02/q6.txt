@@ -1,4 +1,6 @@
 a. Write a sort command which sorts by the results in the second benchmark, then by the results in the first benchmark.
+sort -t'\t' -k3,3 -k2,2
+
 
 b. Write a sort command which sorts by the results in the third benchmark, then by the program number.
 
