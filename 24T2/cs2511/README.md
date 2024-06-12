@@ -4,10 +4,11 @@ Welcome to the resources for COMP2511 H15A.
 
 You can find the code, it's week's folder, and the slides from links below.
 
-| Week            | Topics                         | Slides                                             |
-| --------------- | ------------------------------ | -------------------------------------------------- |
-| [01](./week01/) | General Design, Java, Git      | [PDF](./week01/COMP2511%2024T2%20-%20Week%201.pdf) |
-| [02](./week02/) | Inheritance, Method Overriding | [PDF](./week02/COMP2511%2024T2%20-%20Week%202.pdf) |
+| Week            | Topics                                   | Slides                                             |
+| --------------- | ---------------------------------------- | -------------------------------------------------- |
+| [01](./week01/) | General Design, Java, Git                | [PDF](./week01/COMP2511%2024T2%20-%20Week%201.pdf) |
+| [02](./week02/) | Inheritance, Method Overriding           | [PDF](./week02/COMP2511%2024T2%20-%20Week%202.pdf) |
+| [03](./week03/) | Code Review, Domain Modelling, Debugging | PDF                                                |
 
 ## Useful resources
 
