@@ -10,7 +10,7 @@ You can find the code, it's week's folder, and the slides from links below.
 | [02](./week02/) | Inheritance, Method Overriding           | [PDF](./week02/COMP2511%2024T2%20-%20Week%202.pdf) |
 | [03](./week03/) | Code Review, Domain Modelling, Debugging | [PDF](./week03/COMP2511%2024T2%20-%20Week%203.pdf) |
 
-## Useful resources
+## Useful Resources
 
 - [Course website](https://webcms3.cse.unsw.edu.au/COMP2511/24T2/)
 - [Official Tutorial Solutions](https://webcms3.cse.unsw.edu.au/COMP2511/24T2/resources/100204)
