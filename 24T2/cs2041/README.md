@@ -9,7 +9,7 @@ You can find the code, it's week's folder, and the slides from links below.
 | [01](./week01/) | Regex & Grep            | [PDF](<./week01/COMP(20419044)%20Week%201%20-%2024T2.pdf>) |
 | [02](./week02/) | Filters & Pipelines     | [PDF](<./week02/COMP(20419044)%20Week%202%20-%2024T2.pdf>) |
 | [03](./week03/) | Shell & Shell Scripting | [PDF](<./week03/COMP(20419044)%20Week%203%20-%2024T2.pdf>) |
-| [04](./week04/) | More Shell Scripting    | PDF                                                        |
+| [04](./week04/) | More Shell Scripting    | [PDF](<./week04/COMP(20419044)%20Week%204%20-%2024T2.pdf>) |
 
 ## Useful resources
 
