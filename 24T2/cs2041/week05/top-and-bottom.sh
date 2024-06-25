@@ -4,8 +4,9 @@ top_and_bottom() {
     echo "============"
     echo "$1"
     echo "------------"
-    head -1 < "$1"
-    tail -1 < "$1"
+    sed -n '1p;$p' "$1"
+    # head -1 < "$1"
+    # tail -1 < "$1"
     echo "============"
 }
 
