@@ -10,7 +10,7 @@ You can find the code, it's week's folder, and the slides from links below.
 | [02](./week02/) | Filters & Pipelines     | [PDF](<./week02/COMP(20419044)%20Week%202%20-%2024T2.pdf>) |
 | [03](./week03/) | Shell & Shell Scripting | [PDF](<./week03/COMP(20419044)%20Week%203%20-%2024T2.pdf>) |
 | [04](./week04/) | More Shell Scripting    | [PDF](<./week04/COMP(20419044)%20Week%204%20-%2024T2.pdf>) |
-| [05](./week05/) | Cases, Functions & Git  | PDF                                                        |
+| [05](./week05/) | Cases, Functions & Git  | [PDF](<./week05/COMP(20419044)%20Week%205%20-%2024T2.pdf>) |
 
 ## Useful resources
 
