@@ -10,7 +10,7 @@ You can find the code, it's week's folder, and the slides from links below.
 | [02](./week02/) | Inheritance, Method Overriding                 | [PDF](./week02/COMP2511%2024T2%20-%20Week%202.pdf) |
 | [03](./week03/) | Code Review, Domain Modelling, Debugging       | [PDF](./week03/COMP2511%2024T2%20-%20Week%203.pdf) |
 | [04](./week04/) | Design Principles, Streams, Design by Contract | [PDF](./week04/COMP2511%2024T2%20-%20Week%204.pdf) |
-| [05](./week05/) | Strategy, Observer, State Pattern              | PDF                                                |
+| [05](./week05/) | Strategy, Observer, State Pattern              | [PDF](./week05/COMP2511%2024T2%20-%20Week%205.pdf) |
 
 ## Useful Resources
 
