@@ -1,0 +1,25 @@
+Provide a command that would produce each of the following results:
+
+a. Display the first three lines of the file
+head -3 data/q2.txt
+
+b. Display lines belonging to class accounts
+(assuming that class accounts have a username that starts with either "cs", "se", "bi" or "en", followed by four digit)
+grep -E '^(cs|se|bi|en)[0-9]{4}:' data/q2.txt
+
+c. Display the username of everyone whose shell is /bin/bash
+grep -E ':/bin/bash$' data/q2.txt | cut -d':' -f1
+
+d. Create a tab-separated file passwords.txt containing only the username and password of each user
+cut -d':' -f1,2 data/q2.txt | tr ':' '\t' > password.txt
+
+root:ZHolHAHZw8As2
+jas:iaiSHX49Jvs8.
+andrewt:rX9KwSSPqkLyA
+postgres:
+oracle:
+cs2041:rX9KwSSPqkLyA
+cs3311:mLRiCIvmtI9O2
+cs9311:fIVLdSXYoVFaI
+cs9314:nTn.JwDgZE1Hs
+cs9315:sOMXwkqmFbKlA
