@@ -1,5 +1,9 @@
 package thrones;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
 public class Game {
     private List<Character> characters = new ArrayList<Character>();
 
@@ -32,13 +36,16 @@ public class Game {
         characters.add(character);
     }
 
-
     public static void main(String[] args) {
-        // Replace constructors below with factory pattern
         Game game = new Game();
-        game.addCharacter(new King(0, 0));
-        game.addCharacter(new Dragon(0, 1));
-        game.addCharacter(new Queen(2, 2));
+        game.addCharacter(CharacterFactory.createKing());
+        game.addCharacter(CharacterFactory.createQueen());
+        game.addCharacter(CharacterFactory.createKnight());
+        game.addCharacter(CharacterFactory.createDragon());
+
+        // game.addCharacter(new King(0, 0));
+        // game.addCharacter(new Dragon(0, 1));
+        // game.addCharacter(new Queen(2, 2));
         game.play();
     }
 }
