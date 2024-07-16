@@ -26,7 +26,9 @@ print(c, d)
 
 # {,} - set() - unorded collection of unique elements
 e = {1, 2, 3}
+e.add(3)
 # {"hello", } # single elements must end with a comma or python will complain it looks like a dict
+
 
 # {} is NOT an empty set (is a dict)
 f = set()  # == empty set
@@ -42,8 +44,13 @@ print(g, h)
 # collections.Counter works like a dictionary, but with some extra methods, plus has a default value of 0.
 from collections import Counter
 
+# Will error
+# i = dict()
+# i["a"] += 1
+
 i = Counter()
 i["a"] += 1  # index error with normal dictionary
+# i["a"] += i.get("a", 0) + 1
 print(i["a"])
 
 # collections.defaultdict works like a dictionary, but you can set a default value for missing keys.

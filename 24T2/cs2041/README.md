@@ -12,7 +12,7 @@ You can find the code, it's week's folder, and the slides from links below.
 | [04](./week04/) | More Shell Scripting     | [PDF](<./week04/COMP(20419044)%20Week%204%20-%2024T2.pdf>) |
 | [05](./week05/) | Cases, Functions & Git   | [PDF](<./week05/COMP(20419044)%20Week%205%20-%2024T2.pdf>) |
 | [07](./week07/) | Python, re Module        | [PDF](<./week07/COMP(20419044)&20Week%207%20-%2024T2.pdf>) |
-| [08](./week08/) | Python Types, Subprocess | [PDF]                                                      |
+| [08](./week08/) | Python Types, Subprocess | [PDF](<./week08/COMP(20419044)%20Week%208%20-%2024T2.pdf>) |
 
 ## Useful resources
 
