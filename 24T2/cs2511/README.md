@@ -14,6 +14,7 @@ You can find the code, it's week's folder, and the slides from links below.
 | [07](./week07/) | Composite, Factory, Decorator Pattern          | [PDF](./week07/COMP2511%2024T2%20-%20Week%207.pdf) |
 | [08](./week08/) | Generic Programming & Singleton Pattern        | [PDF](./week08/COMP2511%2024T2%20-%20Week%208.pdf) |
 | [09](./week09/) | Template Pattern, Code and Design Smells       | [PDF](./week09/COMP2511%2024T2%20-%20Week%209.pdf) |
+| [10](./week10/) | Visitor & Adaptor Pattern and Revision         | PDF                                                |
 
 ## Useful Resources
 
