@@ -5,10 +5,14 @@ public class Mouse implements ComputerComponent {
     public Mouse(String name) {
         this.name = name;
     }
-    
+
+    public void accept(ComputerVisitor visitor) {
+        visitor.visit(this);
+    }
+
     @Override
     public String toString() {
         return name;
     }
-    
+
 }

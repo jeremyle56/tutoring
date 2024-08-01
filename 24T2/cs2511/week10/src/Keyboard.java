@@ -7,7 +7,11 @@ public class Keyboard implements ComputerComponent {
     public Keyboard(String name) {
         this.name = name;
     }
-    
+
+    public void accept(ComputerVisitor visitor) {
+        visitor.visit(this);
+    }
+
     public int getNumKeys() {
         return numKeys;
     }

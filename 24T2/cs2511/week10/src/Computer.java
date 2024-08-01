@@ -7,7 +7,13 @@ public class Computer implements ComputerComponent {
         this.name = name;
         this.memory = memory;
     }
-    
+
+    public void accept(ComputerVisitor visitor) {
+        if (visitor.getIsValid()) {
+            visitor.visit(this);
+        }
+    }
+
     @Override
     public String toString() {
         return name;
@@ -16,6 +22,5 @@ public class Computer implements ComputerComponent {
     public int getMemory() {
         return memory;
     }
-    
 
 }
