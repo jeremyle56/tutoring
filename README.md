@@ -18,3 +18,6 @@ COMP1531 resources were available on UNSW GitLab and hence are not in this repos
 | COMP2511 | 24T2 | Lab Assistant    | Wed 10:00 - 12:00 (w/ Kushagra)            |
 | COMP2511 | 24T2 | Tutor            | Thu 15:00 - 18:00 (w/ Ryan)                |
 | COMP3121 | 24T2 | Lab Demonstrator | Thu 09:00 - 11:00 (w/ Khushali & Jerry)    |
+| COMP2511 | 24T3 | Lab Assistant    | Wed 10:00 - 12:00 (w/ Xavier)              |
+| COMP2511 | 24T3 | Tutor            | Fri 15:00 - 18:00 (w/ Marie)               |
+| COMP3121 | 24T3 | Lab Demonstrator | Wed 13:00 - 15:00 (w/ James & Camille)     |
