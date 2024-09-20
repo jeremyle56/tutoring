@@ -3,10 +3,10 @@ package example;
 import java.util.Scanner;
 
 public class Sum {
-
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] numbers = scanner.nextLine().split(" ");
+        scanner.close();
 
         // 6 2 3 4 5, numbers: ["6", "2", "3", "4", "5"]
         int sum = 0;
