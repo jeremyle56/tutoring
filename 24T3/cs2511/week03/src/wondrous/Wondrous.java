@@ -4,9 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Wondrous {
-    private final int MY_MAGIC_NUMBER = 42;
-
     public List<Integer> wondrous(int start) {
+        if (start < 1)
+            throw new IllegalArgumentException("wondrous start must be >= 1");
+        else if (start == 1)
+            return new ArrayList<Integer>();
+
         int current = start;
         List<Integer> sequence = new ArrayList<Integer>();
 
@@ -19,7 +22,7 @@ public class Wondrous {
             }
         }
 
+        sequence.add(current);
         return sequence;
     }
-
 }
