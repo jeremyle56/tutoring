@@ -12,6 +12,7 @@ You can find the code, it's week's folder, and the slides from links below.
 | [04](./week04/) | Design Principles, Streams, Design by Contract | [Link](https://www.canva.com/design/DAGSh4e8aps/Y8sxBRuPsGeG5wGzO8suqw/edit?utm_content=DAGSh4e8aps&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [PDF](./week04/COMP2511%2024T3%20-%20Week%204.pdf) |
 | [05](./week05/) | Strategy, Observer, State Pattern              | [Link](https://www.canva.com/design/DAGTOpXsmpg/U0I0s7DVGB2MImvJ-BGb2w/edit?utm_content=DAGTOpXsmpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [PDF](./week05/COMP2511%2024T3%20-%20Week%205.pdf) |
 | [07](./week07/) | Composite, Factory, Decorator Pattern          | [Link](https://www.canva.com/design/DAGUfpqfAjM/c5KR1OpR2Dq7-IQyCZvZnA/edit?utm_content=DAGUfpqfAjM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [PDF](./week07/COMP2511%2024T3%20-%20Week%207.pdf) |
+| [08](./week08/) | Generic Programming & Singleton Pattern        | [Link](https://www.canva.com/design/DAGVMPljALE/wdYeOHZYp0Mc1rKYNVpShQ/edit?utm_content=DAGVMPljALE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [PDF](./week08/)                                   |
 
 ## Useful Resources
 
