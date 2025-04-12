@@ -1,0 +1,8 @@
+push
+pop
+peek
+size
+toArrayList
+iterator
+sumStack
+prettyPrint
