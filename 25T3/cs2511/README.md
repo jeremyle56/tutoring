@@ -1,31 +1,19 @@
-# Tutorial 01
+# COMP2511 - Software Design and Architecture
 
-## A. Introduction
+Welcome to the resources for COMP2511 F15B.
 
-Your tutor will run a short introduction/icebreaker activity.
+You can find the code, it's week's folder, and the slides from links below.
 
-## B. Solving Design Problems
+| Week            | Topics                    | Slides         |
+| --------------- | ------------------------- | -------------- |
+| [01](./week01/) | General Design, Java, Git | To be released |
 
-- In groups, your tutor is going to give you a design problem to think about and discuss.
-- Come back together, and reflect with your tutor on how you came up with those answers.
+## Useful Resources
 
-## C. Hello Java and Git Revision
+- [Course Website](https://cgi.cse.unsw.edu.au/~cs2511/25T3/)
+- [Official Tutorial Solutions](https://cgi.cse.unsw.edu.au/~cs2511/25T3/tutorials)
+- [Extra Notes](https://cgi.cse.unsw.edu.au/~cs2511/25T3/extra-notes)
 
-Your tutor is going to import the `tute01` code into VSCode and will complete the Hello World program. Things to note:
-
-- The JDK version used (JDK 17).
-- How new classes are created.
-- How VSCode's autocomplete gives detailed information about the methods that can be invoked.
-- Where the output appears.
-
-After completing the program, your tutor will `git add`, `commit`, and `push` the changes.
-
-## D. Java Programming
-
-1. Inside a new file called `Sum.java`, write a program that uses the `Scanner` class which reads in a line of numbers separated by spaces, and sums them.
-
-2. Inside a new file `Shouter.java`, write a program that stores a message and has methods for getting the message, updating the message and printing it out in all caps. Write a `main()` method for testing this class.
-
-## E. Abstraction
-
-What is abstraction? What examples of abstraction have we seen in previous courses? How does abstraction allow us to write better software? Discuss how OOP takes abstraction to another level from what we have seen previously.
+- [Java Documentation](https://docs.oracle.com/en/java/javase/17/)
+- [Refactoring Guru](https://refactoring.guru/)
+- [Java Language Tutorials](https://docs.oracle.com/javase/tutorial/java/)
