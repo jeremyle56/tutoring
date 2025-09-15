@@ -1,6 +1,6 @@
 # COMP2511 - Software Design and Architecture
 
-Welcome to the resources for COMP2511 F15B.
+Welcome to the resources for COMP2511 H10A.
 
 You can find the code, it's week's folder, and the slides from links below.
 
