@@ -35,8 +35,8 @@ COMP1531 resources were available on UNSW GitLab and hence are not in this repos
 
 | Term | Role          | Class                          |
 | ---- | ------------- | ------------------------------ |
-| 25T3 | Lab Assistant | Wed 10:00 - 12:00 (w/ William) |
-| 25T3 | Lab Assistant | Wed 14:00 - 16:00 (w/ Shay)    |
+| 25T3 | Lab Assistant | Tue 10:00 - 12:00 (w/ William) |
+| 25T3 | Lab Assistant | Tue 14:00 - 16:00 (w/ Shay)    |
 
 ## COMP3121
 
