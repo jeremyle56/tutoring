@@ -14,6 +14,7 @@ You can find the code, it's week's folder, and the slides from links below.
 | [07](./week07)  | Concucrrency, Singleton Pattern, Abstract Factory Pattern, Decorator Pattern | [Link](https://www.canva.com/design/DAG3KxGpG6U/-EzXsR_hB6_0p85fidEVzA/edit), [PDF](./week07/COMP2511%2025T3%20-%20Week%207.pdf)                                                                                                                  |
 | [08](./week08)  | Software Artitecture, C4 Model, Sequence Diagrams                            | [Link](https://www.canva.com/design/DAG3zZxfbHw/PWwH42SY8IqbQsXlyOZk5g/edit), [PDF](./week08/COMP2511%2025T3%20-%20Week%208.pdf)                                                                                                                  |
 | [09](./week09)  | Architectural Characteristics, Architectural Styles                          | [Link](https://www.canva.com/design/DAG4fMfEL_M/lA4kLf8uUtamQwnxBJZMyg/edit), [PDF](./week09/COMP2511%2025T3%20-%20Week%209.pdf)                                                                                                                  |
+| [10](./week10)  | Finding Patterns, Code and Design Smells, Serverless Architecture            | [Link](https://www.canva.com/design/DAG5Ij9iPXc/iaKYMb07KClPAR0MUbuilw/edit), [PDF](./week10/COMP2511%2025T3%20-%20Week%2010.pdf)                                                                                                                 |
 
 ## Useful Resources
 
