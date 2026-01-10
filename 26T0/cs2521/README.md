@@ -6,8 +6,10 @@ You can find the code, its week's folder and the slides/notes from the links bel
 
 | Week            | Topics                             | Slides |
 | --------------- | ---------------------------------- | ------ |
-| 01              | Recursion, Analysis of Algorithms  | N/A    |
+| [01](./week01)  | Recursion, Analysis of Algorithms  | N/A    |
 | [02](./week02/) | Sorting, ADTs, Binary Search Trees |        |
+
+Credits to Daniel for the Week 1 Tutorial Code.
 
 ## Useful Resources
 
