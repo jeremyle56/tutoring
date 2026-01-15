@@ -33,7 +33,28 @@
   Now we wish to sort it by student name, so that we can easily see what courses each student is studying. Show an example of what the final array would look like if
 
   1. we used a _stable_ sorting algorithm
+
+  | **course** | **name** | **program** |
+  | ---------- | -------- | ----------- |
+  | MATH1231   | Adam     | 3970        |
+  | PSYC1011   | Adam     | 3970        |
+  | COMP2521   | Jane     | 3970        |
+  | PSYC1011   | Jane     | 3970        |
+  | COMP2521   | John     | 3978        |
+  | MATH1231   | John     | 3978        |
+  | COMP2521   | Pete     | 3978        |
+
   2. we used an _unstable_ sorting algorithm
+
+  | **course** | **name** | **program** |
+  | ---------- | -------- | ----------- |
+  | PSYC1011   | Adam     | 3970        |
+  | MATH1231   | Adam     | 3970        |
+  | PSYC1011   | Jane     | 3970        |
+  | COMP2521   | Jane     | 3970        |
+  | COMP2521   | John     | 3978        |
+  | MATH1231   | John     | 3978        |
+  | COMP2521   | Pete     | 3978        |
 
 #### Adaptability
 
@@ -67,6 +88,10 @@
 | Quick sort | $O(n \log n)$ | $O(n \log n)$ | $O(n^2)$      | No     | No       |
 
 </center>
+
+<p align="center">
+  <img src="./images/sorting.png" />
+</p>
 
 ## Abstract Data Types (ADTs)
 

@@ -24,10 +24,30 @@ void QueueFree(Queue q) {
     free(q);
 }
 
-void QueueEnqueue(Queue q, int item) {
-    // TODO
-}
+void QueueEnqueue(Queue q, int item) { StackPush(q->s1, item); }
 
 int QueueDequeue(Queue q) {
-    // TODO
+    // while (StackSize(q->s1) > 0) {
+    //     int item = StackPop(q->s1);
+    //     StackPush(q->s2, item);
+    // }
+
+    // int result = StackPop(q->s2);
+
+    // while (StackSize(q->s2) > 0) {
+    //     int item = StackPop(q->s2);
+    //     StackPush(q->s1, item);
+    // }
+
+    // return result;
+
+    if (StackSize(q->s2) == 0) {
+        while (StackSize(q->s1) > 0) {
+            int item = StackPop(q->s1);
+            StackPush(q->s2, item);
+        }
+    }
+
+    int result = StackPop(q->s2);
+    return result;
 }
