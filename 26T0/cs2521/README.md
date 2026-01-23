@@ -8,8 +8,9 @@ You can find the code, its week's folder and the slides/notes from the links bel
 | --------------- | ---------------------------------- |
 | [01](./week01)  | Recursion, Analysis of Algorithms  |
 | [02](./week02/) | Sorting, ADTs, Binary Search Trees |
+| [03](./week03/) | Balanced Trees, Graph Basics       |
 
-Credits to Daniel Lin for the Week 1 Tutorial Code. Further credits to Chris Wang for tutorial content inspiration.
+Credits to Daniel Lin for the Week 1 Tutorial Code. Further credits to Chris Wang for Week 2 tutorial content inspiration.
 
 ## Useful Resources
 
